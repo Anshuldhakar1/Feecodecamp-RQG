@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Feecodecamp-RQG/static/css/main.f19dce46.css",
+    "main.js": "/Feecodecamp-RQG/static/js/main.9149674e.js",
+    "static/js/787.59722a0b.chunk.js": "/Feecodecamp-RQG/static/js/787.59722a0b.chunk.js",
+    "static/media/twitter-logo.svg": "/Feecodecamp-RQG/static/media/twitter-logo.ac4c4fd4f05647e678d1bfc95ebd81fd.svg",
+    "index.html": "/Feecodecamp-RQG/index.html",
+    "static/media/quotes.svg": "/Feecodecamp-RQG/static/media/quotes.fb854aa03b7afb1b24e45b6c8eb1898a.svg",
+    "main.f19dce46.css.map": "/Feecodecamp-RQG/static/css/main.f19dce46.css.map",
+    "main.9149674e.js.map": "/Feecodecamp-RQG/static/js/main.9149674e.js.map",
+    "787.59722a0b.chunk.js.map": "/Feecodecamp-RQG/static/js/787.59722a0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f19dce46.css",
+    "static/js/main.9149674e.js"
+  ]
+}
